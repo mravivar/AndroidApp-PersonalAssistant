@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Batroid</string>
+    <string name="route_name">Route Navigation</string>
+    <string name="weather_name">Weather</string>
+    <string name="dnd_name">GeoDND</string>
+    <string name="autoreply_name">Auto Reply</string>
+    <string name="birthdays_name">Birthdays</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="about_text">
+        <b>App Name :</b> Batroid\n\n
+        <b>Version :</b> 1.0\n\n
+        <b>Category :</b> Android Personal Assistant\n\n
+        <b>Author :</b> Abhishek Zambre, Mayank Khullar, Chaitanya Phalak, Murali Ravivarma\n\n
+        <b>Course :</b> Mobile Computing (CSE 535)\n\n
+        <b>Class :</b> Master of Computer Science (MCS), Arizona State University\n\n
+        <b>Description :</b> Batroid is a smart Android Personal Assistant, which silences your phone when you are in a meeting or any DND zone. It gives you whether updates
+        based on your current location. It auto-replies to text messages. It sends birthday wishes to your contacts on their birthdays.
+        It pro-actively gives you directions before meetings.\n\n
+    </string>
+</resources>

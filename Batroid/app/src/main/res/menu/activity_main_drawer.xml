@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dnd"
+            android:icon="@drawable/ic_do_not_disturb_on_black"
+            android:title="GeoDND" />
+        <item
+            android:id="@+id/nav_weather"
+            android:icon="@drawable/ic_wb_sunny_black"
+            android:title="Weather" />
+        <item
+            android:id="@+id/nav_route"
+            android:icon="@drawable/ic_navigation_black"
+            android:title="Route" />
+        <item
+            android:id="@+id/nav_birthday"
+            android:icon="@drawable/ic_cake_black"
+            android:title="Birthdays" />
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings_black"
+                android:title="Geofences" />
+        </menu>
+    </item>
+</menu>
