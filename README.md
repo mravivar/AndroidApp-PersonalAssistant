@@ -1,5 +1,5 @@
 # Batroid 
-Batroid is an android-based personal assistant app, which handles multiple tasks without much of an user intervention.
+Batroid is an android-based personal assistant application that handles multiple tasks without much of an user intervention.
 
 ## Features  
 1. Do Not Disturb (DND) mode depending on user's current location using Geofencing.
